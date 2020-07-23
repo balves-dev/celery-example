@@ -7,4 +7,5 @@ $ docker run -d -p 5672:5672 rabbitmq
 É necessário também instalar as bibliotecas:
 
 pip install celery
-requests
+
+pip install requests

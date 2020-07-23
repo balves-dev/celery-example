@@ -29,4 +29,3 @@ def getLatitudadeLongitude(municipio):
     longitude = stringAux[0:posicaoFim]
 
     return {'latitude':latitude,"longitude":longitude}
-
